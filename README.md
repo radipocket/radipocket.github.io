@@ -31,10 +31,10 @@
 | `https://radipocket.github.io/yt/s08` | `https://play.google.com/store/apps/details?id=ca.radipocket&referrer=utm_source%3Dyoutube%26utm_medium%3Dvideo%26utm_campaign%3Dshort08` |
 | `https://radipocket.github.io/yt/s09` | `https://play.google.com/store/apps/details?id=ca.radipocket&referrer=utm_source%3Dyoutube%26utm_medium%3Dvideo%26utm_campaign%3Dshort09` |
 | `https://radipocket.github.io/yt/s10` | `https://play.google.com/store/apps/details?id=ca.radipocket&referrer=utm_source%3Dyoutube%26utm_medium%3Dvideo%26utm_campaign%3Dshort10` |
-| `https://radipocket.github.io/x` | `https://play.google.com/store/apps/details?id=ca.radipocket&referrer=utm_source%3Dx%26utm_medium%3Dsocial%26utm_campaign%3Daruaru10` |
-| `https://radipocket.github.io/ig` | `https://play.google.com/store/apps/details?id=ca.radipocket&referrer=utm_source%3Dinstagram%26utm_medium%3Dsocial%26utm_campaign%3Daruaru10` |
+| `https://radipocket.github.io/x` | `https://play.google.com/store/apps/details?id=ca.radipocket&referrer=utm_source%3Dx_profile%26utm_medium%3Dsocial%26utm_campaign%3Dprofile` |
+| `https://radipocket.github.io/ig` | `https://play.google.com/store/apps/details?id=ca.radipocket&referrer=utm_source%3Dinstagram_profile%26utm_medium%3Dsocial%26utm_campaign%3Dprofile` |
 
-YouTube の目印（utm_campaign）: long・teaser_h・teaser_v・short01〜short10（RP-079）。X・Instagram はプロフィール用（RP-082）。2026-10-02 から、プロフィールの2本も出す先ごとの印（`utm_source=x`・`instagram`）と企画の印（`utm_campaign=aruaru10`）にした（RP-111）。
+YouTube の目印（utm_campaign）: long・teaser_h・teaser_v・short01〜short10（RP-079）。X・Instagram はプロフィール用（RP-082）。2026-10-02〜10-08 は出す先ごとの印（`aruaru10`・RP-111）にしていたが、2026-10-08 に元の `profile` に戻した（RP-150）。
 
 ## 直し方
 
